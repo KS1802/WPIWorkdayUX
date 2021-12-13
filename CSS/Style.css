@@ -733,3 +733,7 @@ a:hover {
   max-width: 90%;
   height: auto; 
 }
+.video{
+  width: 90% ;
+  height: 90%;
+}
