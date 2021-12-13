@@ -719,5 +719,9 @@ a:hover {
 }
 .personasimg{
   max-width: 90%;
-  height: 90%;
+  height: auto;
+}
+.wireframeimg{
+  max-width: 90%;
+  height: auto;
 }
