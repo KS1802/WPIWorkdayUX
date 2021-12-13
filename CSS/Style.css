@@ -725,3 +725,11 @@ a:hover {
   max-width: 90%;
   height: auto;
 }
+.critimg{
+  max-width: 50%;
+  height:auto;
+}
+.accimg{
+  max-width: 90%;
+  height: auto; 
+}
