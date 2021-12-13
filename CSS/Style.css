@@ -812,7 +812,9 @@ a:hover {
 .work-box .s-description {
   color: #4e4e4e;
 }
-
+.flowdiagram{
+  width: 80%;
+}
 
 /*--------------------------------------------------------------
 # Footer
