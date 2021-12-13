@@ -832,3 +832,7 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+img{
+  max-width: 90%;
+  height: auto;
+}
