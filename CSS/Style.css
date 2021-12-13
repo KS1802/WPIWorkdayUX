@@ -717,7 +717,7 @@ a:hover {
 .fiveseclist{
   text-align: left;
 }
-img{
-  max-width: 160px;
-  height: 160px;
+.personasimg{
+  max-width: 90%;
+  height: 90%;
 }
